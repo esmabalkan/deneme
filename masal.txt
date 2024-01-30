@@ -24,3 +24,7 @@ KIRMIZI BAŞLIKLI KIZ
  “Tavşan Ormanı’nın sonunda ki ilk ev. 
  Büyükannemin sağlığı pek iyi değil. Bu arada adım ‘küçük kız’ değil, ‘Kırmızı Başlıklı Kız.’ ”
  
+ “Özür dilerim,” demiş kurt. “Bilmiyordum.
+ Bak sana ne diyeceğim.
+ Ben bir koşu gidip Büyükannene senin yolda olduğunu haber vereyim. 
+ Yalnız sakın yolda oyalanayım falan deme, olur mu? Başına bir şey gelmesini istemeyiz, öyle değil mi?”
